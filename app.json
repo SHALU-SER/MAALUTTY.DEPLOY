@@ -14,7 +14,7 @@
         },
          "BROADCAST_NAME": {
             "description": "maalu forward ordertext",
-            "required": false
+            "required": false,
             "value": "✰𝙼𝙰𝙰𝙻𝚄𝚃𝚃𝚈_𝚅3✰"
         },
         "ALL_IMG": {
