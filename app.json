@@ -182,7 +182,7 @@
         "BOT_NAME": {
             "description": "heading for .list command reply",
             "required": true,
-            "value": "ꪶ͢𝙼𝙰𝙰𝙻𝚄𝚃𝚃𝚈_𝚅3ꫂ⁩🥂
+            "value": "ꪶ͢𝙼𝙰𝙰𝙻𝚄𝚃𝚃𝚈_𝚅3ꫂ⁩🥂"
         },
         "WORK_TYPE": {
             "description": "Maalutty Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
